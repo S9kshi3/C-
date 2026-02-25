@@ -1,5 +1,4 @@
-//https://1drv.ms/f/c/4d95be6cdb43e948/IgCv8L1L0ocgT4VvPySaMtFPAfuuUNLh5KotCLblfxe5Wcc?e=kMH0ja
-//https://1drv.ms/f/c/4d95be6cdb43e948/IgAOPJpYYMD3QK8iaCEwKLKKAcTtxknxkDS5H8hoNI8qSwM?e=dHG7Kj
+
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -882,4 +881,5 @@ int main() {
     return 0;
 
 }
+
 
